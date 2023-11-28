@@ -116,5 +116,5 @@ When you finish, type 'deactivate' into your terminal to deactivate the virtual 
 - Use a virtual environment and include instructions in your README on how the user should set it up.
 
 **Category 5**
-Annotate your code with markdown cells in Jupyter Notebook, write clear comments, and have a well-written READme.md. 
+- Annotate your code with markdown cells in Jupyter Notebook, write clear comments, and have a well-written READme.md. 
 
