@@ -1,4 +1,5 @@
-# Healthcare Expenditure, Life Expectancy, and Child Mortality
+# Healthcare Expenditure, Life Expectancy,
+# and Child Mortality
 
 ##About
 Join me as we investigate healthcare expenditures as they relate to life expectancy and child mortality in developed countries. The Human Development Index (HDI) is a composite score based on many different demographic statistics, such as education level, per capita income, lifespan, gross national income, etc. Based on the HDI, the top 25 developed countries are:
