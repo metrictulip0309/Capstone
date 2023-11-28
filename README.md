@@ -101,13 +101,17 @@ When you finish, type 'deactivate' into your terminal to deactivate the virtual 
 
 ## Final Project Requirements
 **Category 1**
+- Read two data files (CSV).
 
 **Category 2**
+- Clean your data and perform a pandas merge, then calculate some new values based on the new data set.
 
 **Category 3**
+- Make a Tableau dashboard to display your data.
 
 **Category 4**
+- Use a virtual environment and include instructions in your README on how the user should set it up.
 
 **Category 5**
-
+Annotate your code with markdown cells in Jupyter Notebook, write clear comments, and have a well-written READme.md. 
 
