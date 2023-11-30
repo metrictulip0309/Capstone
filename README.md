@@ -99,7 +99,10 @@ When you finish, type 'deactivate' into your terminal to deactivate the virtual 
 
 ## Visualizations
 
+Visualizations of this data can be viewed at my [Tableau Public Dashboard](https://public.tableau.com/shared/B6QH4MYSN?:display_count=n&:origin=viz_share_link)
+
 ## Summary of Findings
+
 Using Tableau, I looked for correlations in the data. Of note, these correlations are only using data from the above countries. If countries with a lower HDI were examined, these findings may be very different. Additionally, this investigation did not look for any causality only correlation. Based on the correlation coefficient and p-value, the following correlations were observed:
 - GDP and child mortality showed a slight negative correlation
 - Child mortality and life expectancy showed a negative correlation
