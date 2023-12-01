@@ -96,7 +96,7 @@ pip install -r requirements.txt
 **You are now set up to run the project!**
 
 To do so, open the Capstone Project.ipynb file.
-You can run each cell individually in order or choose to run all cells.
+You can run each cell individually in sequential order, or you can choose to run all cells.
 
 When you finish, type 'deactivate' into your terminal to deactivate the virtual environment.
 
